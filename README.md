@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Refining, debugging, and optimizing code for peak performance and reliability.**
 
-- 👨‍💻 All of my projects are available at [iqra@zenkoders.com](iqra@zenkoders.com)
+- 👨‍💻 All of my projects are available at [Zenkoders Portfolio](https://tinyurl.com/zenkoders-portfolio)
 
 - 💬 Ask me about **React, React Native, NodeJS, NestJS**
 
